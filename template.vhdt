@@ -1,0 +1,19 @@
+-- File: <filename>
+-- Author: <author>
+-- Date: <date>
+-- Description: <description>
+
+-- Libraries
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+-- Entity
+entity <entity> is 
+port(
+    );
+end entity <entity>;
+
+-- Architecture
+architecture <architecture> of <entity> is
+begin
+end architecture <architecture>;
